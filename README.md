@@ -27,6 +27,3 @@ Este es un proyecto de análisis de datos de efectos adversos de un ensayo clín
 * https://www.ibm.com/mx-es/think/topics/random-forest
 * https://www.ibm.com/think/topics/xgboost
 * https://www.ibm.com/es-es/think/topics/hierarchical-clustering
-
-*
-*
